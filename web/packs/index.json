@@ -1,0 +1,15 @@
+{
+  "packs": [
+    "KollyWoodStickers.json",
+    "TamilStickers-2.json",
+    "Koundamani-Stickers.json",
+    "Mottai-Rajender.json",
+    "Santhanam-Stickers.json",
+    "SK_Stickers.json",
+    "Soori_Stickers.json",
+    "Vadivel_Stickers.json",
+    "Vivek_Stickers.json",
+    "Yogi_Babu_Stickers.json"
+  ],
+  "homeserver_url": "https://matrix.vettiarattai.org/"
+}
